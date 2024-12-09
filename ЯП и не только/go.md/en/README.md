@@ -38,4 +38,4 @@ the code is licensed under a [BSD 3-Clause License](<https://github.com/astaxie/
 
 ### Get Started
 
-[Index](myBrain/ЯП%20и%20не%20только/go.md/en/preface.md)
+[Index](build-web-application-with-golang-en.md)
