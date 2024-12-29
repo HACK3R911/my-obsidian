@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "98bc467d71462374",
+            "id": "ae65ca90dc8e20d5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ЯП и не только/go.md/en/images/1.1.mac.png"
+                "file": "ЯП и не только/API/API Practices.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "1.1.mac"
+              "icon": "lucide-file",
+              "title": "API Practices"
             }
           }
         ]
@@ -177,22 +179,23 @@
   },
   "active": "8f0a5eeddc0ece27",
   "lastOpenFiles": [
-    "ЯП и не только/API/images/Pasted image 20241229234752.png",
-    "ЯП и не только/API/API Practices.md",
+    "ЯП и не только/API/images/03.png",
     "ЯП и не только/API/images/02.png",
-    "ЯП и не только/go.md/en/images/1.1.mac.png",
-    "images.md",
     "ЯП и не только/API/images/01.png",
+    "ЯП и не только/API/images/12.png",
+    "ЯП и не только/API/images/11.png",
+    "ЯП и не только/API/images/12.1.png",
+    "ЯП и не только/API/images/13.png",
+    "ЯП и не только/API/images/21.png",
+    "ЯП и не только/API/images/22.png",
+    "ЯП и не только/API/images/23.png",
+    "ЯП и не только/API/images/24.png",
+    "ЯП и не только/API/API Practices.md",
+    "images.md",
     "ЯП и не только/API/images",
     "ЯП и не только/API",
     "ЯП и не только/Брокеры сообщений/0..md",
     "ЯП и не только/Брокеры сообщений",
-    "ЯП и не только/go.md/ru/images/polling.png",
-    "ЯП и не только/go.md/ru/images/navi9_Ru.png",
-    "ЯП и не только/go.md/ru/images/navi9.png",
-    "ЯП и не только/go.md/ru/images/navi8_Ru.png",
-    "ЯП и не только/go.md/ru/images/navi8.png",
-    "ЯП и не только/go.md/ru/images/navi7_Ru.png",
     "ЯП и не только/go.md/ru/images",
     "ЯП и не только/go.md/ru/build-web-application-with-golang-ru.md",
     "ЯП и не только/go.md/ru/06.0.md",

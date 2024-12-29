@@ -2,5 +2,6 @@
   "newFileLocation": "current",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "./images",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
 }
