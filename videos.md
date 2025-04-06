@@ -21,5 +21,8 @@
 
 [# Высоконагруженные приложения](https://www.youtube.com/watch?v=owjrIB_5go8&t=15s)
 
+## Balun
+
+[# Осторожно unsafe! Практические примеры и ошибки использования](https://www.youtube.com/watch?v=nwa4uadWXno)
 
 
