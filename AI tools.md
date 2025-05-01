@@ -11,3 +11,5 @@ bexi ai
 presenti ai
 делает презентации
 
+docx ai
+
